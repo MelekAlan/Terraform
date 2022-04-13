@@ -128,7 +128,7 @@ resource "aws_db_instance" "tf_rds" {
   identifier                  = "tf-phonebook-db"
   db_name                        = "phonebook"
   username                    = "admin"
-  password                    = "Melek-tf"
+  password                    = "xxxxx"
 
 }
 

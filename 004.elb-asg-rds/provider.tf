@@ -16,5 +16,5 @@ provider "aws" {
 }
 
 provider "github" {
-  token = "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"
+  token = "xxxxxxxxxxxxxxxxxxxxx"
 }
